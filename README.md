@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://news-app-beta-ten.vercel.app/)
 - Live Site URL: [Add live site URL here](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 
 ## My process
